@@ -1,5 +1,4 @@
 
-
 import java.util.*;
 public class GenerateTest {
     public static void main(String[] args) {
